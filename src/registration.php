@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Meanbee_CSSPreload',
+    'M2Boilerplate_LinkPreload',
     __DIR__
 );
