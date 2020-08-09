@@ -1,6 +1,6 @@
-# Magento 2 CSS Preload
+# Module Link Preload
 
-Simple module that allows for asynchronous CSS loading in Magento 2
+A Simple module that allows pre-loading of assets (css, fonts, scripts, etc...) loading in Magento 2
 
 ## Installation
 
